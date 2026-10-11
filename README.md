@@ -1,40 +1,39 @@
-# Hola, soy Alejandro Silva 👋
+# Hola, soy Alejandro 👋
 
-### Desarrollador de software · Unity · C# · Python · Experiencias interactivas
+### Desarrollo software con Unity, C# y Python
 
-Construyo aplicaciones que conectan software, interacción humana y necesidades reales. Me interesa transformar ideas en productos claros, mantenibles y utilizables, desde experiencias con visión computacional y realidad aumentada hasta herramientas de escritorio para Windows.
+Soy estudiante de Ingeniería Informática en Chile. Me gusta crear proyectos que mezclan programación e interacción, especialmente videojuegos, visión computacional, realidad aumentada y aplicaciones de escritorio.
 
-Actualmente estudio **Ingeniería Informática en Chile** y estoy abierto a oportunidades laborales, proyectos freelance y colaboraciones donde pueda aportar con desarrollo práctico, aprendizaje rápido y criterio de producto.
+Actualmente estoy mejorando mis habilidades con proyectos propios y buscando oportunidades donde pueda seguir aprendiendo, aportar al equipo y llevar ideas a soluciones que realmente funcionen. También estoy disponible para proyectos freelance y colaboraciones.
 
-## En qué puedo aportar
+## Lo que hago
 
-- **Unity y C#:** gameplay 2D, realidad aumentada, interacción y herramientas experimentales.
-- **Computer vision:** integración de MediaPipe y OpenCV con aplicaciones en tiempo real.
-- **Aplicaciones de escritorio:** WPF/.NET y Python para automatización y productividad.
-- **Ingeniería de software:** arquitectura mantenible, Git, pruebas y documentación técnica.
-- **Enfoque de negocio:** entender el problema antes de elegir la solución técnica.
+- Desarrollo prototipos y mecánicas de juego con **Unity y C#**.
+- Integro **MediaPipe y OpenCV** en aplicaciones que trabajan con cámara en tiempo real.
+- Creo experiencias móviles de realidad aumentada con **AR Foundation y ARCore**.
+- Desarrollo herramientas para Windows con **WPF, .NET y Python**.
+- Trabajo con Git y procuro mantener mis proyectos ordenados y documentados.
 
-## Proyectos destacados
+## Algunos de mis proyectos
 
-| Proyecto | Qué demuestra | Tecnologías |
+| Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
-| [BodyPlatformer](https://github.com/JanoCode/BodyPlatformer) | Convierte el cuerpo detectado por cámara en plataformas físicas para un videojuego 2D. | Unity, C#, Python, MediaPipe, OpenCV, UDP |
-| [GhostBoard](https://github.com/JanoCode/GhostBoard) | Prototipo móvil que permite colocar una pizarra virtual sobre paredes reales. | Unity, C#, AR Foundation, ARCore |
-| [WorkBlock](https://github.com/JanoCode/WorkBlock) | Temporizador de enfoque para Windows con descansos, audio, notificaciones e instalador. | C#, WPF, .NET, Windows App SDK |
-| [info-pc](https://github.com/JanoCode/info-pc) | Automatiza el inventario técnico de computadores Windows y exporta los resultados. | Python, PyInstaller, Windows |
+| [BodyPlatformer](https://github.com/JanoCode/BodyPlatformer) | Hice un videojuego 2D donde el cuerpo detectado por la cámara se transforma en plataformas físicas. | Unity, C#, Python, MediaPipe, OpenCV, UDP |
+| [GhostBoard](https://github.com/JanoCode/GhostBoard) | Desarrollé un prototipo móvil para colocar una pizarra virtual sobre una pared real. | Unity, C#, AR Foundation, ARCore |
+| [WorkBlock](https://github.com/JanoCode/WorkBlock) | Creé un temporizador de enfoque para Windows con descansos, audio, notificaciones e instalador. | C#, WPF, .NET, Windows App SDK |
+| [info-pc](https://github.com/JanoCode/info-pc) | Automaticé la recopilación de información técnica de computadores Windows y su exportación. | Python, PyInstaller, Windows |
 
-## Tecnologías
+## Tecnologías que utilizo
 
 `C#` · `Unity` · `Python` · `WPF` · `.NET` · `MediaPipe` · `OpenCV` · `AR Foundation` · `ARCore` · `Git`
 
 ## Contacto
 
-- LinkedIn: [Alejandro Silva San Martín](https://www.linkedin.com/in/alejandro-silva-san-martin/)
-- GitHub: [@JanoCode](https://github.com/JanoCode)
-- Ubicación: Chile · Disponible para oportunidades presenciales y remotas
+- [LinkedIn](https://www.linkedin.com/in/alejandro-silva-san-martin/)
+- Chile · Disponible para oportunidades presenciales y remotas
 
 ---
 
 ### English
 
-Software developer and Computer Engineering student focused on **Unity, C#, Python, computer vision, augmented reality and Windows desktop applications**. I enjoy turning real needs into maintainable, practical products. Open to junior roles, freelance projects and collaborations.
+I'm a Computer Engineering student from Chile. I build projects with **Unity, C# and Python**, with a particular interest in computer vision, augmented reality, games and Windows desktop applications. I'm currently open to junior roles, freelance work and collaborations.
