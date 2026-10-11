@@ -1,39 +1,45 @@
 # Hola, soy Alejandro 👋
 
-### Desarrollo software con Unity, C# y Python
+### Desarrollo software a medida y convierto ideas en soluciones funcionales
 
-Soy estudiante de Ingeniería Informática en Chile. Me gusta crear proyectos que mezclan programación e interacción, especialmente videojuegos, visión computacional, realidad aumentada y aplicaciones de escritorio.
+Soy estudiante de Ingeniería Informática en Chile. Desarrollo herramientas, automatizaciones y prototipos, y también puedo integrarme a proyectos existentes para implementar funcionalidades, resolver problemas o llevar una idea a una versión utilizable.
 
-Actualmente estoy mejorando mis habilidades con proyectos propios y buscando oportunidades donde pueda seguir aprendiendo, aportar al equipo y llevar ideas a soluciones que realmente funcionen. También estoy disponible para proyectos freelance y colaboraciones.
+Trabajo principalmente con **C#, .NET y Python**. También tengo experiencia con Unity, visión computacional y realidad aumentada. No intento resolver todos los proyectos con la misma herramienta: prefiero entender primero el problema y elegir una solución que tenga sentido.
 
-## Lo que hago
+## En qué te puedo ayudar
 
-- Desarrollo prototipos y mecánicas de juego con **Unity y C#**.
-- Integro **MediaPipe y OpenCV** en aplicaciones que trabajan con cámara en tiempo real.
-- Creo experiencias móviles de realidad aumentada con **AR Foundation y ARCore**.
-- Desarrollo herramientas para Windows con **WPF, .NET y Python**.
-- Trabajo con Git y procuro mantener mis proyectos ordenados y documentados.
+- Automatizar tareas repetitivas y procesos manuales.
+- Crear herramientas internas y aplicaciones de escritorio.
+- Desarrollar prototipos y primeras versiones funcionales de una idea.
+- Implementar funcionalidades o corregir problemas en proyectos existentes.
+- Crear experiencias 2D/3D, simulaciones y sistemas interactivos con Unity.
 
-## Algunos de mis proyectos
+## Cómo me gusta trabajar
 
-| Proyecto | Descripción | Tecnologías |
+Antes de empezar, intento entender qué se necesita, qué debería incluir la primera entrega y cómo comprobar que funciona. Prefiero avanzar por etapas, mostrar resultados temprano y mantener el código y la documentación suficientemente claros para poder continuar el proyecto después.
+
+## Proyectos
+
+| Proyecto | Qué hice | Tecnologías |
 | --- | --- | --- |
-| [BodyPlatformer](https://github.com/JanoCode/BodyPlatformer) | Hice un videojuego 2D donde el cuerpo detectado por la cámara se transforma en plataformas físicas. | Unity, C#, Python, MediaPipe, OpenCV, UDP |
+| [WorkBlock](https://github.com/JanoCode/WorkBlock) | Desarrollé y publiqué un temporizador de enfoque para Windows con descansos, audio, notificaciones e instalador. | C#, WPF, .NET, Windows App SDK |
+| [info-pc](https://github.com/JanoCode/info-pc) | Automaticé la recopilación y exportación de información técnica de computadores Windows. | Python, PyInstaller, Windows |
+| [BodyPlatformer](https://github.com/JanoCode/BodyPlatformer) | Integré Unity con un proceso de visión computacional para convertir el cuerpo detectado por cámara en plataformas físicas. | Unity, C#, Python, MediaPipe, OpenCV, UDP |
 | [GhostBoard](https://github.com/JanoCode/GhostBoard) | Desarrollé un prototipo móvil para colocar una pizarra virtual sobre una pared real. | Unity, C#, AR Foundation, ARCore |
-| [WorkBlock](https://github.com/JanoCode/WorkBlock) | Creé un temporizador de enfoque para Windows con descansos, audio, notificaciones e instalador. | C#, WPF, .NET, Windows App SDK |
-| [info-pc](https://github.com/JanoCode/info-pc) | Automaticé la recopilación de información técnica de computadores Windows y su exportación. | Python, PyInstaller, Windows |
+| [Souls Runner](https://store.steampowered.com/app/4888600/Souls_Runner/) | Co-desarrollé un videojuego cooperativo 3D con un amigo. Los dos participamos en programación, diseño, pruebas y publicación en Steam. | Unity, C#, desarrollo y publicación de videojuegos |
 
-## Tecnologías que utilizo
+## Tecnologías que he utilizado
 
-`C#` · `Unity` · `Python` · `WPF` · `.NET` · `MediaPipe` · `OpenCV` · `AR Foundation` · `ARCore` · `Git`
+`C#` · `.NET` · `Python` · `Unity` · `WPF` · `MediaPipe` · `OpenCV` · `AR Foundation` · `ARCore` · `Git`
 
 ## Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/alejandro-silva-san-martin/)
-- Chile · Disponible para oportunidades presenciales y remotas
+¿Tienes una idea, un proceso que quieras automatizar o un proyecto que necesite desarrollo? Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/alejandro-silva-san-martin/).
+
+Chile · Disponible para proyectos freelance y colaboraciones remotas.
 
 ---
 
 ### English
 
-I'm a Computer Engineering student from Chile. I build projects with **Unity, C# and Python**, with a particular interest in computer vision, augmented reality, games and Windows desktop applications. I'm currently open to junior roles, freelance work and collaborations.
+I'm a Computer Engineering student from Chile. I build custom software, automation tools and functional prototypes, and I can also join existing projects to implement features or solve technical problems. I mainly work with **C#, .NET and Python**, with additional experience in Unity, computer vision and augmented reality. I'm available for freelance projects and remote collaborations.
