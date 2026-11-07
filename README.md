@@ -18,10 +18,23 @@ Trabajo principalmente con **C#, .NET y Python**. También tengo experiencia con
 
 Antes de empezar, intento entender qué se necesita, qué debería incluir la primera entrega y cómo comprobar que funciona. Prefiero avanzar por etapas, mostrar resultados temprano y mantener el código y la documentación suficientemente claros para poder continuar el proyecto después.
 
+## Experiencia freelance
+
+### [Radio Isabel Contulmo](https://radioisabelcontulmo.cl/) · Noviembre de 2026
+
+Desarrollé y publiqué el sitio web de una emisora de Contulmo, Chile, como proyecto freelance para un cliente. Me encargué del levantamiento de necesidades, el diseño adaptable a celulares y computadores y la puesta en marcha de la radio en línea.
+
+- Implementé el reproductor de radio en vivo, controles de reproducción y volumen, y la integración con los controles multimedia del celular mediante Media Session API.
+- Integré el streaming de Bitsur (SHOUTcast) y configuré de forma remota BUTT para transmitir el audio de la mesa del estudio, con pruebas de música y micrófono.
+- Configuré la publicación en Hostinger, el dominio en NIC Chile, DNS y HTTPS, y utilicé Git para el control de versiones.
+
+**Tecnologías:** HTML, CSS, JavaScript, Media Session API, SHOUTcast, BUTT y Git. [Ver sitio publicado](https://radioisabelcontulmo.cl/). El código del cliente se mantiene en un repositorio privado.
+
 ## Proyectos
 
 | Proyecto | Qué hice | Tecnologías |
 | --- | --- | --- |
+| [Radio Isabel Contulmo](https://radioisabelcontulmo.cl/) | Desarrollé y publiqué una web para un cliente con radio en vivo; integré el streaming y configuré la emisión remota, dominio y hosting. | HTML, CSS, JavaScript, Media Session API, SHOUTcast, BUTT |
 | [WorkBlock](https://github.com/JanoCode/WorkBlock) | Desarrollé y publiqué un temporizador de enfoque para Windows con descansos, audio, notificaciones e instalador. | C#, WPF, .NET, Windows App SDK |
 | [info-pc](https://github.com/JanoCode/info-pc) | Automaticé la recopilación y exportación de información técnica de computadores Windows. | Python, PyInstaller, Windows |
 | [BodyPlatformer](https://github.com/JanoCode/BodyPlatformer) | Integré Unity con un proceso de visión computacional para convertir el cuerpo detectado por cámara en plataformas físicas. | Unity, C#, Python, MediaPipe, OpenCV, UDP |
@@ -30,7 +43,7 @@ Antes de empezar, intento entender qué se necesita, qué debería incluir la pr
 
 ## Tecnologías que he utilizado
 
-`C#` · `.NET` · `Python` · `Unity` · `WPF` · `MediaPipe` · `OpenCV` · `AR Foundation` · `ARCore` · `Git`
+`HTML` · `CSS` · `JavaScript` · `C#` · `.NET` · `Python` · `Unity` · `WPF` · `MediaPipe` · `OpenCV` · `AR Foundation` · `ARCore` · `Git`
 
 ## Contacto
 
